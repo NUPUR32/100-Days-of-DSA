@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/NUPUR32/100-Days-of-DSA?style=for-the-badge"/>
   <img src="https://img.shields.io/github/forks/NUPUR32/100-Days-of-DSA?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/NUPUR32/100-Days-of-DSA?style=for-the-badge"/>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
   <img src="https://img.shields.io/github/last-commit/NUPUR32/100-Days-of-DSA?style=for-the-badge"/>
 </p>
 

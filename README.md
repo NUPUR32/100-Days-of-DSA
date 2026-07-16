@@ -1,98 +1,104 @@
 # 🚀 100 Days of DSA Challenge
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=100+Days+of+Data+Structures+%26+Algorithms;Consistency+%3E+Perfection;Solving+One+Problem+Every+Day;Preparing+for+Placements+%26+Coding+Interviews" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=100+Days+of+Data+Structures+%26+Algorithms;Consistency+%3E+Perfection;One+Problem+Every+Day;Preparing+for+Software+Engineering+Placements;Keep+Learning+Keep+Growing+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/NUPUR32/100-Days-of-DSA?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/NUPUR32/100-Days-of-DSA?style=for-the-badge"/>
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)]
-  <img src="https://img.shields.io/github/last-commit/NUPUR32/100-Days-of-DSA?style=for-the-badge"/>
+
+![Stars](https://img.shields.io/github/stars/NUPUR32/100-Days-of-DSA?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/NUPUR32/100-Days-of-DSA?style=for-the-badge&logo=github)
+![License](https://img.shields.io/github/license/NUPUR32/100-Days-of-DSA?style=for-the-badge&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/NUPUR32/100-Days-of-DSA?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/NUPUR32/100-Days-of-DSA?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/NUPUR32/100-Days-of-DSA?style=for-the-badge)
+
 </p>
 
 ---
 
 # 📖 About
 
-Welcome to my **100 Days of DSA Challenge**!
+Welcome to my **100 Days of DSA Challenge**.
 
-This repository documents my journey of solving **Data Structures and Algorithms** problems consistently for **100 days**. The goal is to strengthen problem-solving skills, master coding interview patterns, and prepare for software engineering placements.
+This repository documents my journey of solving **Data Structures and Algorithms** problems every day to improve problem-solving skills, master interview patterns, and prepare for software engineering placements.
 
-Every solution is written with clean, readable code and focuses on understanding the underlying algorithm rather than simply passing test cases.
+Every solution is written with:
+
+- ✅ Clean Code
+- ✅ Optimized Logic
+- ✅ Time & Space Complexity
+- ✅ Easy-to-understand Approach
 
 ---
 
 # 🎯 Objectives
 
-- ✅ Build strong DSA fundamentals
-- ✅ Improve logical thinking
-- ✅ Master coding interview patterns
-- ✅ Practice consistency
-- ✅ Prepare for Product-Based Companies
-- ✅ Track daily learning progress
+- Master Data Structures
+- Improve Problem Solving
+- Build Consistency
+- Learn Interview Patterns
+- Prepare for Product-Based Companies
+- Track Daily Progress
+- Write Clean & Efficient Code
 
 ---
 
-# 💻 Language
+# 💻 Programming Language
 
-- C
+```
+C
+```
 
 ---
 
 # 📚 Topics Covered
 
-- Arrays
-- Strings
-- Hashing
-- Linked Lists
-- Stacks
-- Queues
-- Binary Search
-- Recursion
-- Backtracking
-- Trees
-- Binary Search Trees
-- Heaps
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-- Sliding Window
-- Two Pointers
-- Bit Manipulation
-- Mathematics
-- Searching & Sorting
+| Core DSA | Advanced DSA |
+|-----------|--------------|
+| Arrays | Dynamic Programming |
+| Strings | Graphs |
+| Hashing | Trees |
+| Linked List | Binary Search Tree |
+| Stack | Heap |
+| Queue | Greedy |
+| Binary Search | Sliding Window |
+| Sorting | Two Pointers |
+| Recursion | Backtracking |
+| Bit Manipulation | Mathematics |
 
 ---
 
-# 📅 Progress
+# 📅 Challenge Progress
 
-| Status | Progress |
-|---------|----------|
-| Total Days | 100 |
-| Completed | Updating Daily 🚀 |
-| Current Streak | 🔥 Active |
+| Challenge | Status |
+|------------|--------|
+| Total Days | **100** |
+| Current Progress | 🚀 Updating Daily |
+| Streak | 🔥 Active |
+| Language | C |
 
 ---
 
 # 📂 Repository Structure
 
 ```
-100-Days-of-DSA/
+100-Days-of-DSA
 │
-├── Day-01/
-├── Day-02/
-├── Day-03/
+├── Day-01
+├── Day-02
+├── Day-03
 │
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── DP/
+├── Arrays
+├── Strings
+├── LinkedList
+├── Stack
+├── Queue
+├── Trees
+├── Graphs
+├── DynamicProgramming
 │
+├── LICENSE
 └── README.md
 ```
 
@@ -100,58 +106,85 @@ Every solution is written with clean, readable code and focuses on understanding
 
 # 📝 Problem Format
 
-Each day's folder may contain:
+Each day's solution includes
 
-- Problem Statement
-- Approach
-- Time Complexity
-- Space Complexity
-- Optimized Solution
-- Source (LeetCode/GFG/etc.)
+- 📌 Problem Statement
+- 💡 Approach
+- ⚡ Optimized Code
+- ⏱️ Time Complexity
+- 💾 Space Complexity
+- 🔗 Source (LeetCode/GFG)
 
 ---
 
-# 📈 What I'm Learning
+# 📈 Learning Outcomes
 
-- Writing optimized solutions
-- Identifying coding patterns
-- Improving time complexity
-- Writing clean code
-- Interview problem-solving strategies
+Through this challenge I am improving:
+
+- Problem Solving
+- Coding Speed
+- Logic Building
+- Algorithm Design
+- Optimization Techniques
+- Interview Preparation
+- Clean Coding Practices
 
 ---
 
 # 🏆 Goals
 
-- Complete 100 Days without breaking consistency
-- Solve 300+ DSA Problems
-- Reach advanced interview level
-- Become placement ready
+- ✅ Complete 100 Days
+- ✅ Solve 300+ Problems
+- ✅ Master Core DSA
+- ✅ Crack Coding Interviews
+- ✅ Become Placement Ready
 
 ---
 
-# 🤝 Contributions
+# 🤝 Contributing
 
-Suggestions and improvements are always welcome.
-
-If you find a better solution or optimization:
+Contributions are welcome!
 
 1. Fork the repository
-2. Create your branch
-3. Commit your changes
-4. Open a Pull Request
+2. Create your feature branch
+
+```
+git checkout -b feature-name
+```
+
+3. Commit changes
+
+```
+git commit -m "Added solution"
+```
+
+4. Push
+
+```
+git push origin feature-name
+```
+
+5. Create a Pull Request
 
 ---
 
 # ⭐ Support
 
-If you find this repository helpful,
+If this repository helps you,
 
-⭐ Star the repository
+⭐ Star this repository
 
 🍴 Fork it
 
 📢 Share it with your friends
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the **LICENSE** file for more information.
 
 ---
 
@@ -165,8 +198,10 @@ https://github.com/NUPUR32
 
 <p align="center">
 
-### ⭐ One Problem Every Day. One Step Closer to Success. ⭐
+## 🚀 One Problem Every Day
 
-*"Consistency beats intensity."*
+### ⭐ Consistency Beats Perfection ⭐
+
+*"Small daily improvements are the key to long-term success."*
 
 </p>

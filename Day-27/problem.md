@@ -1,4 +1,4 @@
-Remove loop in Linked List
+27.Remove loop in Linked List
 
 Given the head of a singly linked list, the task is to remove a cycle if present.
  A cycle exists when a node's next pointer points back to a previous node, forming a loop.

@@ -1,0 +1,2 @@
+The maximum depth of a binary tree is found using recursion. For each node, compute the depth of its left and right subtrees
+and return the larger value plus one. If the node is NULL, the depth is zero.

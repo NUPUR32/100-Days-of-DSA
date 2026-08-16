@@ -1,6 +1,6 @@
 ﻿# Time and Space Complexity
 
-## Time Complexity: O(n + m)
+## Time Complexity: O(n)
 
 ## Space Complexity: O(1)
 

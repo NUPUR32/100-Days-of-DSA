@@ -1,6 +1,6 @@
 ﻿# Time and Space Complexity
 
-## Time Complexity: O(n log n)
+## Time Complexity: O(n)
 
 ## Space Complexity: O(1)
 

@@ -1,8 +1,8 @@
 ﻿# Time and Space Complexity
 
-## Time Complexity: O(2^n)
+## Time Complexity: O(n)
 
-## Space Complexity: O(n)
+## Space Complexity: O(1)
 
 where:
 - n = number of elements / nodes
